@@ -1,0 +1,13 @@
+Qty,Designator,Footprint,Comment,LCSC Part #,Description
+1,D1,SOD-123,Schottkey Diode,C8598,SOD-123 Schottky Diode
+1,R4,R0805,Resistor,C25276,0.22ohm 0805 RESISTOR
+1,C4,C0603,Capacitor,C1595,1500pF 0603 CAPACITOR
+1,R2,R0603,Resistor,C25803,100Kohm 0603 RESISTOR
+1,R1,R0603,Resistor,C25804,10Kohm 0603 RESISTOR
+1,L1,SMD_8.0x8.0x4.0mm,Inductor,C96966,150uH POWER INDUCTOR
+1,R3,R0402,Resistor,C25145,180ohm 0603 RESISTOR
+1,LED1,LED_0603,Chip LED,C2286,LED
+2,"C2, C3",C0805,Capacitor,C45783,22uF 0805 ceramic capacitors
+1,R5,R0402,Resistor,C25900,4.7Kohm 0402 RESISTOR
+1,U1,SOIC-8_3.9x4.9x1.27P,Buck/Boost regulator,C32078,1.5-A SOIC-8 Boost/Buck/Inverting Switching Regulator
+1,R6,R0603,Resistor,C21190,1Kohm 0603 RESISTOR
